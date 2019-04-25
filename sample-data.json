@@ -1,0 +1,471 @@
+{
+	"companyInfo": {
+	  "data": {
+		"companyName": "AccuWeather",
+		"companyMotto": "Weather radar, wind and waves forecast for kiters, surfers, paragliders, pilots, sailors and anyone else!",
+		"companyEst": "companyLocation"
+	  }
+	},
+	"weatherData": {
+	  "selected_filter_option":"CityName",
+	  "sortOptions":[
+	  { "label":"Sort By", "value":"sortby", "disabled":true},
+	  { "label":"Ascending", "value":"ascending"},
+	  { "label":"Descending", "value":"descending"},
+	  ],
+	  "filterOptions":[
+	  { "label":"City Name", "value":"CityName"},
+	  { "label":"Country Name", "value":"CountryName"},
+	  { "label":"Weather Condition", "value":"weather_condition"},
+	  { "label":"Tempurature", "value":"temp"},
+	  { "label":"City Info", "value":"cityInfo"},
+	  { "label":"Date", "value":"weatherDate"}],
+	  "filtered_weather_list":[],
+	  "weather_list": [{
+		"id": "495fca29-9d03-49ee-b59e-08936820c21f",
+		"weather_img": sunny,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 15,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2014-03-08T22:09:37.245Z"
+	  }, {
+		"id": "3okkkcd5-1692-4c65-b8de-a2b90oof9472",
+		"weather_img": cloudy,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Cloudy",
+		"temp": 12,
+		"cityInfo": "Quasi voluptatibus quia ea vero cumque voluptas. Dolorem quisquam deserunt delectus facilis ut voluptatem mollitia debitis sint. Hic consequatur voluptatem et ut inventore quo.",
+		"weatherDate": "2011-07-01T05:57:14.805Z"
+	  }, {
+		"id": "d07ae433-50a7-4ff7-958f-e657c450ba5a",
+		"weather_img": rainy,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 21,
+		"cityInfo": "Atque consequuntur vero rerum quos. Sequi vel enim odio non consequuntur labore eos voluptatem. Quia quaerat ea. Et quaerat ad molestiae necessitatibus praesentium quisquam odio id. Ipsum in eaque impedit magni accusamus.",
+		"weatherDate": "2013-05-29T05:37:52.468Z"
+	  }, {
+		"id": "2736de49-dda1-43a8-9b33-87352a7af8a0",
+		"weather_img": snowy,
+		"CityName": "Delhi",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 30,
+		"cityInfo": "Quia aut qui recusandae hic autem quos. Occaecati iusto qui perspiciatis cumque. Deserunt qui voluptate cum id. Dolore expedita veniam.",
+		"weatherDate": "2012-09-02T17:04:33.771Z"
+	  }, {
+		"id": "eb621334-116f-4fa5-8904-20bd7df48552",
+		"weather_img": rainy,
+		"CityName": "Bangalore",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 20,
+		"cityInfo": "Et deleniti autem voluptates quaerat laudantium vero. Et sunt reiciendis. A laudantium sequi. Ratione voluptatem debitis. Voluptatem architecto corrupti officia.",
+		"weatherDate": "2014-05-26T12:42:29.678Z"
+	  }, {
+		"id": "b1236e1d-d30d-4662-9167-uh986acfd038",
+		"weather_img": snowy,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 19,
+		"cityInfo": "Optio odio quaerat rerum sed ipsa distinctio quis velit optio. Eos similique maxime voluptatem enim odio dolor. Voluptatibus et minima eveniet nemo necessitatibus qui quasi nemo. Magnam quam eius unde beatae a perferendis quo omnis. Dolor ut quos placeat impedit suscipit.",
+		"weatherDate": "2012-11-25T17:45:49.684Z"
+	  }, {
+		"id": "78aca8ff-e7d6-4718-bb44-6c55f8a40564",
+		"weather_img": snowy,
+		"CityName": "Kolkata",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 4,
+		"cityInfo": "Non odio minima consequatur tenetur necessitatibus. Debitis repudiandae non omnis nam non dolorum omnis facilis culpa. Et sapiente adipisci ea tempore iure eum cumque iste fuga. Soluta numquam laudantium nesciunt sed alias commodi est inventore et. Velit quis dolor est aspernatur.",
+		"weatherDate": "2014-10-07T09:38:24.987Z"
+	  }, {
+		"id": "86d26468-aec4-4805-8ae5-439ff8005bdc",
+		"weather_img": rainy,
+		"CityName": "Kolkata",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 16,
+		"cityInfo": "Culpa totam facilis incidunt facilis. At animi totam voluptas. Mollitia quo consectetur eum corrupti. Laboriosam voluptatum consequatur sed et et magnam similique. Ipsam assumenda officia est commodi voluptas.",
+		"weatherDate": "2016-01-04T22:17:48.994Z"
+	  }, {
+		"id": "9e4b8376-d3f5-48af-a93a-026a551cce1c",
+		"weather_img": cloudy,
+		"CityName": "Lucknow",
+		"CountryName": "Inida",
+		"weather_condition": "Cloudy",
+		"temp": 14,
+		"cityInfo": "Nihil consequatur placeat aut sit omnis atque. Veritatis fugit temporibus voluptates sequi et rerum. Et qui aperiam consequatur et consequatur hic. Ut dolores dolorem quasi qui alias ut. Doloribus est praesentium laudantium rerum aut tempore ea placeat autem.",
+		"weatherDate": "2017-11-06T03:00:30.409Z"
+	  }, {
+		"id": "ea6ee8aa-0027-4040-8833-c6e8e4adaf00",
+		"weather_img": sunny,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 24,
+		"cityInfo": "Et voluptatem accusamus porro distinctio quia praesentium. Quae veritatis odit nostrum. Consequatur odit consequatur ipsam dicta ad earum culpa quasi. Quas maiores quidem. Voluptatem ea aut amet minus doloribus.",
+		"weatherDate": "2018-06-12T20:07:53.207Z"
+	  }, {
+		"id": "b50e2149-12e7-4a85-9c6d-f665c6ac344e",
+		"weather_img": cloudy,
+		"CityName": "Lucknow",
+		"CountryName": "India",
+		"weather_condition": "Cloudy",
+		"temp": 39,
+		"cityInfo": "Dicta omnis ut distinctio dolor voluptates corrupti et ad quam. Consequatur libero voluptates est excepturi. Temporibus minus veniam et commodi. Cupiditate impedit qui in iure culpa quaerat ducimus. Quia autem animi ea ducimus.",
+		"weatherDate": "2019-11-03T02:16:23.083Z"
+	  }, {
+		"id": "629b6e55-1f0e-4d30-a08f-98d355302e49",
+		"weather_img": rainy,
+		"CityName": "Delhi",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 36,
+		"cityInfo": "Incidunt autem nobis omnis aut nemo. Nobis suscipit id ut nisi ut odio ullam atque. Enim quidem sequi est odio. Repellendus totam dolorem quae quo illo voluptate cum et id. Debitis eum atque eum voluptatem et illum.",
+		"weatherDate": "2015-11-24T20:35:30.922Z"
+	  },
+	  {
+		"id": "495fp0u7-9d03-49ee-b59e-08936820c21f",
+		"weather_img": sunny,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 30,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2000-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-b59e-080ohs20c21f",
+		"weather_img": rainy,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 24,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2010-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-b59e-089ij720c21f",
+		"weather_img": cloudy,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Cloudy",
+		"temp": 13,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2009-02-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-b59e-08939u20c21f",
+		"weather_img": snowy,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 27,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2011-05-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-b59e-0893io20c21f",
+		"weather_img": snowy,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 12,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2011-04-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-b59e-089ui820c21f",
+		"weather_img": sunny,
+		"CityName": "Mumbai",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 24,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2019-10-08T22:09:37.245Z"
+	  },    {
+		"id": "495fca29-9d03-490o-b59e-99996820c212",
+		"weather_img": sunny,
+		"CityName": "Delhi",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 22,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2012-03-08T22:09:37.245Z"
+	  },{
+		"id": "49posa29-9d03-49ee-b59e-99996820c211",
+		"weather_img": rainy,
+		"CityName": "Delhi",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 16,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2018-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9fff-49ee-b59e-08936820c214",
+		"weather_img": cloudy,
+		"CityName": "Delhi",
+		"CountryName": "India",
+		"weather_condition": "Cloudy",
+		"temp": 39,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2017-02-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-pp03-49ee-b59e-08936820c243",
+		"weather_img": snowy,
+		"CityName": "Delhi",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 18,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2010-05-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-8903-49ee-b59e-08936820c21gg",
+		"weather_img": snowy,
+		"CityName": "Delhi",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 39,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2019-04-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-b59e-08ps9i20c2rt",
+		"weather_img": sunny,
+		"CityName": "Delhi",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 49,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2019-10-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-99996820cud7",
+		"weather_img": sunny,
+		"CityName": "Bangalore",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 27,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2014-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-99996820c45j",
+		"weather_img": rainy,
+		"CityName": "Bangalore",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 19,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2013-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-08936820c9ss",
+		"weather_img": cloudy,
+		"CityName": "Bangalore",
+		"CountryName": "India",
+		"weather_condition": "Cloudy",
+		"temp": 39,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2013-02-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-08936820cdh8",
+		"weather_img": snowy,
+		"CityName": "Bangalore",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 10,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2012-05-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-08936820c2rg7",
+		"weather_img": snowy,
+		"CityName": "Bangalore",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 39,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2011-04-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-08936820cps0",
+		"weather_img": sunny,
+		"CityName": "Bangalore",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 17,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2019-10-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-999p0a60cud7",
+		"weather_img": sunny,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 28,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2009-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-99ppf520c45j",
+		"weather_img": rainy,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 19,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2014-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-pol36820c9ss",
+		"weather_img": cloudy,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Cloudy",
+		"temp": 57,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2015-02-08T22:09:37.245Z"
+	  },{
+		"id": "490a0a29-9d03-49ee-yusd-08936820cdh8",
+		"weather_img": snowy,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 47,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2015-05-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-089368poaprg7",
+		"weather_img": snowy,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 19,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2018-04-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-9d03-49ee-yusd-0893pl00cps0",
+		"weather_img": sunny,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 39,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2019-10-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-0osj-49ee-yusd-99996820cud7",
+		"weather_img": sunny,
+		"CityName": "Kolkata",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 40,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2012-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-0osj-49ee-yusd-99996820c45j",
+		"weather_img": rainy,
+		"CityName": "Kolkata",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 30,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2019-03-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-0osj-49ee-yusd-08936820c9ss",
+		"weather_img": cloudy,
+		"CityName": "Kolkata",
+		"CountryName": "India",
+		"weather_condition": "Cloudy",
+		"temp": 36,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2013-02-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-0osj-49ee-yusd-08936820cdh8",
+		"weather_img": snowy,
+		"CityName": "Kolkata",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 39,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2010-05-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-0osj-49ee-yusd-08936820c2rg7",
+		"weather_img": snowy,
+		"CityName": "Kolkata",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 19,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2006-04-08T22:09:37.245Z"
+	  },{
+		"id": "495fca29-0osj-49ee-yusd-08936820cps0",
+		"weather_img": sunny,
+		"CityName": "Kolkata",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 59,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2009-10-08T22:09:37.245Z"
+	  },
+	
+	  {
+		"id": "89iju729-9d03-49ee-yusd-0893pl00cps0",
+		"weather_img": sunny,
+		"CityName": "Chennai",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 18,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2014-10-08T22:09:37.245Z"
+	  },{
+		"id": "p065ca29-0osj-49ee-yusd-99996820cud7",
+		"weather_img": sunny,
+		"CityName": "Lucknow",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 20,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2013-03-08T22:09:37.245Z"
+	  },{
+		"id": "90oica29-0osj-49ee-yusd-99996820c45j",
+		"weather_img": rainy,
+		"CityName": "Lucknow",
+		"CountryName": "India",
+		"weather_condition": "Rainy",
+		"temp": 40,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2011-03-08T22:09:37.245Z"
+	  },{
+		"id": "po09ca29-0osj-49ee-yusd-08936820c9ss",
+		"weather_img": cloudy,
+		"CityName": "Lucknow",
+		"CountryName": "India",
+		"weather_condition": "Cloudy",
+		"temp": 18,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2010-02-08T22:09:37.245Z"
+	  },{
+		"id": "356tca29-0osj-49ee-yusd-08936820cdh8",
+		"weather_img": snowy,
+		"CityName": "Lucknow",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 19,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2018-05-08T22:09:37.245Z"
+	  },{
+		"id": "0o887a29-0osj-49ee-yusd-08936820c2rg7",
+		"weather_img": snowy,
+		"CityName": "Lucknow",
+		"CountryName": "India",
+		"weather_condition": "Snowy",
+		"temp": 26,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2019-04-08T22:09:37.245Z"
+	  },{
+		"id": "49oa8yh7-0osj-49ee-yusd-08936820cps0",
+		"weather_img": sunny,
+		"CityName": "Lucknow",
+		"CountryName": "India",
+		"weather_condition": "Sunny",
+		"temp": 47,
+		"cityInfo": "Sequi eligendi et dolor debitis distinctio occaecati aut quibusdam. Quia temporibus ratione omnis corrupti. Inventore omnis architecto odit omnis quisquam perspiciatis nam.",
+		"weatherDate": "2014-10-08T22:09:37.245Z"
+	  }]
+	},
+   
+  }

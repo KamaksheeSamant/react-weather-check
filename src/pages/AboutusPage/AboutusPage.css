@@ -1,0 +1,36 @@
+.aboutus-container {
+  margin-top: 70px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  line-height: 1;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.aboutus-container .title {
+  font-family: sans-serif;
+  font-size: 2rem;
+  font-weight: initial;
+  color: #676262;
+}
+
+.aboutus-container .sub-title, .aboutus-container p {
+  font-family: sans-serif;
+  font-size: 0.9rem;
+  font-weight: initial;
+  color: #676262;
+  line-height: 1.2;
+}
+/*# sourceMappingURL=AboutusPage.css.map */

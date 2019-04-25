@@ -1,0 +1,92 @@
+@import '../../styles/commonStyle.scss';
+
+@media only screen and (min-width: 768px) {
+  .toolbar_options {
+    display: initial !important;
+  }
+  .hamburgerButton {
+    display: none !important;
+  }
+}
+
+.toolbar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background:$color-brand;
+  height: 50px;
+}
+
+.toolbar_nav {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  height: 100%;
+  padding: 0 1rem;
+}
+
+.toolbar_logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  img {
+    width: 30px;
+    height: 30px;
+    padding: 0 1rem;
+  }
+  .tootlbar_title{
+    flex-direction: column;
+    a {
+      color: white;
+      text-decoration: none;
+      @include textFormat(1.5rem,white);
+    }
+    h3 {
+      color: white;
+      margin: 0;
+      @include textFormat(0.8rem,white);
+    }
+  }
+}
+
+.seperator {
+  @include seperator(); 
+}
+
+.hamburgerButton {
+  display: initial;
+}
+
+.toolbar_options {
+  display: none;
+  
+  ul {
+    @include noPadMargin();
+    list-style: none;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+  }
+  li {
+    padding: 0 0.5rem;
+    a{
+      @include textFormat(0.9rem,white);
+    }
+  }
+  a {
+    color: white;
+    text-decoration: none;
+    &:hover, &:active {
+      color: pink;
+    }
+  }
+}
+
+/*# sourceMappingURL=Toolbar.css.map */

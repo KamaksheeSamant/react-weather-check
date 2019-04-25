@@ -1,0 +1,73 @@
+@import '../../common/styles/commonStyle.scss';
+
+@media only screen and (min-width: 510px) {
+  .weatherRoster-container{
+    .search-div{
+      .filter-button,a{
+        display: initial !important;
+      }
+    }
+    .badge-div{
+      .apply-filter{ 
+        display: none !important;
+      }
+    }
+  }
+  
+}
+
+.weatherRoster-container {
+    margin-top: 70px;
+    display: flex;   
+    flex-direction: column; 
+    line-height: 1;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto; 
+    
+    #filter-div{
+      display: flex;  
+      flex-direction: row;
+      justify-content: space-around;
+      .dropDown{
+        flex: 1;
+      }
+    }
+    .badge-div{
+      display: flex;
+      flex-direction: row;
+      padding: 0 20px 10px 20px;  
+      .apply-filter{
+        display: inline;
+      }
+    }
+    .filter-container{
+      a{
+        position: absolute;
+        right: 0;
+        margin-right: 20px;
+      }
+    }
+    .search-div{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      .filter-button{
+        display: none;
+        @extend %button;
+        width: auto;
+      }
+      a{
+        display: none;
+        line-height: 4;
+        @include textFormat(0.9rem);
+      }
+    }
+    
+  }
+  .weather-container{
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: center;
+  }
